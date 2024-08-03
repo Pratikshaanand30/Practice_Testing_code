@@ -6,6 +6,7 @@ public int sum(int a, int b)
 {
 	int c= a+b;
 	System.out.println("Sum result is " +c);
+	System.out.println("Data updated");
 	return c;
 }
 public int multi(int x, int y)
